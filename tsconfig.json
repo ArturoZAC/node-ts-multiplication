@@ -1,5 +1,5 @@
 {
-  "exclude": ["node_modules", "**/*.spec.ts","**/*.test.ts"],
+  "exclude": ["node_modules", "dist",  "**/*.spec.ts","src/**/*.test.ts"],
   "include": ["src/**/*"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
